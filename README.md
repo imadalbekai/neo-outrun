@@ -7,7 +7,7 @@ Neo-OutRun is a custom-built, retro arcade racing console powered by an ESP32. I
 This project was built from scratch in C++ without the use of dedicated graphics processing units (GPUs) or external game engines.
 
 [https://www.youtube.com/watch?v=33OQNa7OZd0](https://www.youtube.com/watch?v=33OQNa7OZd0)
-*(Click above for a full hardware breakdown and gameplay demo!)*
+*(Click for a full hardware breakdown and gameplay demo!)*
 
 ## 🚀 Features
 * **Pseudo-3D Projection Math:** Real-time Z-depth scaling and perspective rendering on a microcontroller.
