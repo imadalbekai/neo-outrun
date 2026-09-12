@@ -85,7 +85,7 @@ float roadWidth = perspective * SCREEN_W * 2.2;
 
 ## 📚 Documentation & Authors
 
-For a deep dive into the system requirements, state machines, and optical physics, please see the full academic report and presentation slides in the `/docs` folder.
+For a deep dive into the system requirements, state machines, and optical physics, please see the full academic report in the `/docs` folder.
 
 **Authors:** Imad Albekai (@imadalbekai) & Mohamad Issa
 
